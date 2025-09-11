@@ -1,4 +1,4 @@
-public interface showable {
-
-    void print();
-}
+//public interface showable {
+//
+//    void print();
+//}

@@ -1,2 +1,2 @@
-public interface Printablee {
-}
+//public interface Printablee {
+//}
